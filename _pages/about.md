@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate student pursuing a BSc (Hons) in Computer Science and Engineering at the **University of Dhaka**, Bangladesh, with a CGPA of **3.83/4.00**. My research interests lie at the intersection of **high-performance machine learning systems**, **distributed computing**, and **natural language processing**, with applications in large-scale scientific data analysis.
+I am a final-year undergraduate student pursuing a BSc (Hons) in Computer Science and Engineering at the **University of Dhaka**, Bangladesh, with a CGPA of **3.84/4.00**. My research interests lie at the intersection of **high-performance machine learning systems**, **distributed computing**, and **natural language processing**, with applications in large-scale scientific data analysis.
 
 Currently, I am working as a **Research Assistant** under the supervision of [**Dr. Muhammad Ibrahim**](https://www.cse.du.ac.bd/profile/?faculty=MI) at the University of Dhaka, where I am developing large-scale Bangla QA datasets and fine-tuning transformer-based models for question answering systems. I am also an active member of the **DU_Caffeine Team**, contributing to winning multiple national hackathons through the development and deployment of ML solutions.
 
@@ -19,10 +19,10 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 # 🔥 News
 
 - *2025.03*: &nbsp;🎉 Started working as a Research Assistant at the University of Dhaka under Dr. Muhammad Ibrahim
-- *2025.09*: &nbsp;🏆 Champion at Solvio AI Hackathon with ZeroBin — AI-Driven Waste Management Platform
+- *2025.12*: &nbsp;🏆 Champion at Solvio AI Hackathon with ZeroBin — AI-Driven Waste Management Platform
 - *2025.07*: &nbsp;🎓 Completed Summer School on Energy Data Analytics at IIT Bombay, India
-- *2025.01*: &nbsp;🚀 Top 20 at VisionX Project Showcasing, University of Dhaka
-- *2025.01*: &nbsp;🏅 Top 10 at S. N. Bose National IT Hackathon, University of Dhaka
+- *2025.11*: &nbsp;🚀 Top 20 at VisionX Project Showcasing, University of Dhaka
+- *2025.05*: &nbsp;🏅 Top 10 at S. N. Bose National IT Hackathon, University of Dhaka
 
 # 💼 Experience
 
@@ -65,8 +65,10 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 
 # 🚀 Selected Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sep-Dec 2025</div><img src='images/zerobin.png' alt="ZeroBin" width="100%" onerror="this.style.display='none'"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+
+<span class="badge">Sep-Dec 2025</span>
 
 **ZeroBin — AI-Driven Waste Management Platform**
 
@@ -85,8 +87,10 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dec 2025-Jan 2026</div><img src='images/hpc.png' alt="HPC" width="100%" onerror="this.style.display='none'"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+
+<span class="badge">Dec 2025-Jan 2026</span>
 
 **Distributed Machine Learning System with MPI & OpenMP**
 
@@ -99,15 +103,34 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 </div>
 </div>
 
-**Informer-Based Agricultural Price Forecasting** <span style="float: right; color: #64748b; font-size: 0.9em;">*Mar 2025 – Jun 2025*</span>
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<span class="badge">Mar-Jun 2025</span>
+
+**Informer-Based Agricultural Price Forecasting**
+
 - Built long-horizon time-series forecasting pipeline using **Informer transformer model**
 - Automated data extraction from 800+ PDFs with OCR (Tesseract) and regex parsing
 - Developed end-to-end pipeline for data preprocessing, model training, and evaluation
 
-**Flash — Tutorial Recommendation Platform** <span style="float: right; color: #64748b; font-size: 0.9em;">*Oct 2024 – Jan 2025*</span>
-<a href="https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn" class="btn-link-outline" style="margin-left: 0;" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<span class="badge">Oct 2024-Jan 2025</span>
+
+**Flash — Tutorial Recommendation Platform**
+
+<a href="https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn" class="btn-link-outline" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+
 - Implemented content-based recommendation system using **TF-IDF and cosine similarity**
 - Built full-stack application for personalized tutorial recommendations
+
+</div>
+</div>
 
 # 🎓 Education
 
@@ -119,7 +142,7 @@ I am passionate about building efficient, scalable systems that bridge the gap b
     </div>
     <div style="text-align: right; color: #64748b; font-size: 0.9em;">Expected May 2026</div>
   </div>
-  <div class="education-gpa">CGPA: 3.83 / 4.00</div>
+  <div class="education-gpa">: 3.84 / 4.00</div>
   <p style="margin-top: 1em; color: #64748b; font-size: 0.9em;"><strong>Relevant Coursework:</strong> Machine Learning, Artificial Intelligence, Data Structures & Algorithms, Parallel & Distributed Systems, Computer Architecture, Operating Systems, Database Systems</p>
 </div>
 
@@ -255,12 +278,12 @@ I am passionate about building efficient, scalable systems that bridge the gap b
   <div class="experience-header">
     <div>
       <div class="experience-title">Mathematics Instructor</div>
-      <div class="experience-company">Online Platforms & YouTube</div>
+      <div class="experience-company">Offline & YouTube</div>
     </div>
   </div>
   <ul>
     <li>Teaching advanced mathematics topics including Calculus, Linear Algebra, Probability, and Vector Analysis</li>
-    <li>Providing instruction to high school students preparing for higher education</li>
+    <li>Providing instruction to College Students preparing for higher education</li>
     <li>Creating educational content and conducting live sessions</li>
   </ul>
 </div>
