@@ -52,13 +52,14 @@
     flex-wrap: wrap;
     border: none;
     border-radius: $border-radius-lg;
-    padding: 1.5em;
-    margin: 1.5em 0;
-    background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    padding: 1.75em;
+    margin: 1.75em 0;
+    background: linear-gradient(135deg, #ffffff 0%, #fafbfc 100%);
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.05);
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     position: relative;
     overflow: hidden;
+    border: 1px solid rgba(0, 0, 0, 0.04);
     
     &::before {
         content: '';
@@ -75,6 +76,7 @@
     &:hover {
         transform: translateY(-4px);
         box-shadow: 0 12px 40px rgba(37, 99, 235, 0.12);
+        border-color: rgba(37, 99, 235, 0.08);
         
         &::before {
             opacity: 1;
@@ -91,7 +93,7 @@
         img {
             max-width: 100%;
             border-radius: $border-radius;
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
             object-fit: cover;
             transition: transform 0.4s ease;
         }
@@ -109,11 +111,15 @@
             font-size: 1.15em;
             color: $darker-gray;
             line-height: 1.4;
+            display: block;
+            margin-bottom: 0.25em;
         }
         
         em {
             color: $gray;
-            font-size: 0.95em;
+            font-size: 0.9em;
+            display: block;
+            margin-bottom: 0.75em;
         }
         
         a {
@@ -127,11 +133,18 @@
         
         ul {
             margin-top: 0.8em;
+            padding-left: 1.2em;
             
             li {
-                margin-bottom: 0.4em;
+                margin-bottom: 0.5em;
                 line-height: 1.6;
                 color: $text-color;
+                font-size: 0.95em;
+                
+                strong {
+                    display: inline;
+                    font-size: 1em;
+                }
             }
         }
     }
@@ -146,7 +159,7 @@
         
         .paper-box-text {
             justify-content: left;
-            padding-left: 2em;
+            padding-left: 1.75em;
             max-width: 65%;
             order: 2;
         }
@@ -169,17 +182,18 @@ h1:before, .anchor:before {
 
 .badge {
     display: inline-block;
-    padding: 0.4em 1em;
+    padding: 0.5em 1.2em;
     position: absolute;
-    margin-top: 0.5em;
-    margin-left: -0.5em;
+    top: 1em;
+    left: 0;
     color: white;
     background: linear-gradient(135deg, $primary-color 0%, #7c3aed 100%);
-    font-size: 0.75em;
+    font-size: 0.8em;
     font-weight: 600;
-    border-radius: 0 $border-radius $border-radius 0;
-    letter-spacing: 0.02em;
-    box-shadow: 0 2px 10px rgba(37, 99, 235, 0.3);
+    border-radius: 0 50px 50px 0;
+    letter-spacing: 0.03em;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.35);
+    z-index: 10;
 }
 
 /* ==========================================================================
@@ -245,16 +259,18 @@ h1:before, .anchor:before {
 
 .experience-item {
     position: relative;
-    padding: 1.5em;
-    margin: 1em 0;
-    background: #f8fafc;
+    padding: 1.75em 2em;
+    margin: 1.5em 0;
+    background: linear-gradient(135deg, #ffffff 0%, #fafbfc 100%);
     border-radius: $border-radius-lg;
     border-left: 4px solid $primary-color;
-    transition: all 0.3s ease;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     
     &:hover {
-        background: #f1f5f9;
-        transform: translateX(4px);
+        background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+        transform: translateX(6px);
+        box-shadow: 0 8px 30px rgba(37, 99, 235, 0.1);
     }
     
     .experience-header {
@@ -262,29 +278,61 @@ h1:before, .anchor:before {
         justify-content: space-between;
         align-items: flex-start;
         flex-wrap: wrap;
-        margin-bottom: 0.8em;
+        margin-bottom: 1em;
+        gap: 0.75em;
     }
     
     .experience-title {
         font-weight: 700;
         color: $darker-gray;
-        font-size: 1.1em;
+        font-size: 1.15em;
+        margin-bottom: 0.2em;
     }
     
     .experience-company {
         color: $primary-color;
-        font-weight: 500;
+        font-weight: 600;
+        font-size: 0.95em;
     }
     
     .experience-date {
-        color: $gray;
-        font-size: 0.9em;
+        color: white;
+        background: linear-gradient(135deg, $primary-color 0%, #7c3aed 100%);
+        padding: 0.35em 0.9em;
+        border-radius: 50px;
+        font-size: 0.78em;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
+        white-space: nowrap;
     }
     
     .experience-supervisor {
         color: $gray;
-        font-size: 0.9em;
+        font-size: 0.85em;
         font-style: italic;
+        margin-top: 0.25em;
+    }
+    
+    ul {
+        margin: 0;
+        padding-left: 1.2em;
+        
+        li {
+            margin-bottom: 0.5em;
+            line-height: 1.65;
+            color: $text-color;
+            font-size: 0.95em;
+            
+            &:last-child {
+                margin-bottom: 0;
+            }
+            
+            strong {
+                color: $darker-gray;
+                font-weight: 600;
+            }
+        }
     }
 }
 
@@ -443,42 +491,53 @@ h1:before, .anchor:before {
 .btn-link {
     display: inline-flex;
     align-items: center;
-    gap: 0.4em;
-    padding: 0.5em 1em;
-    margin: 0.3em;
+    gap: 0.5em;
+    padding: 0.6em 1.2em;
+    margin: 0.3em 0.3em 0.3em 0;
     background: linear-gradient(135deg, $primary-color 0%, $primary-color-light 100%);
     color: white !important;
     border-radius: 50px;
     font-size: 0.85em;
-    font-weight: 500;
+    font-weight: 600;
     text-decoration: none !important;
-    transition: all 0.3s ease;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: none;
     
     &:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 4px 15px rgba(37, 99, 235, 0.35);
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(37, 99, 235, 0.4);
+        background: linear-gradient(135deg, $primary-color-dark 0%, $primary-color 100%);
+    }
+    
+    i {
+        font-size: 1.1em;
     }
 }
 
 .btn-link-outline {
     display: inline-flex;
     align-items: center;
-    gap: 0.4em;
-    padding: 0.5em 1em;
-    margin: 0.3em;
+    gap: 0.5em;
+    padding: 0.55em 1.2em;
+    margin: 0.3em 0.3em 0.3em 0;
     background: white;
     color: $primary-color !important;
     border: 2px solid $primary-color;
     border-radius: 50px;
     font-size: 0.85em;
-    font-weight: 500;
+    font-weight: 600;
     text-decoration: none !important;
-    transition: all 0.3s ease;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     
     &:hover {
         background: $primary-color;
         color: white !important;
-        transform: translateY(-2px);
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(37, 99, 235, 0.3);
+    }
+    
+    i {
+        font-size: 1.1em;
     }
 }
 
@@ -488,16 +547,37 @@ h1:before, .anchor:before {
 
 @media (max-width: 600px) {
     .paper-box {
-        padding: 1em;
+        padding: 1.25em;
+        margin: 1.25em 0;
+        
+        .paper-box-text {
+            strong {
+                font-size: 1.1em;
+            }
+        }
     }
     
-    .experience-item .experience-header {
-        flex-direction: column;
+    .experience-item {
+        padding: 1.25em;
+        
+        .experience-header {
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        
+        .experience-date {
+            align-self: flex-start;
+        }
     }
     
     .contact-section .contact-links {
         flex-direction: column;
         align-items: center;
+    }
+    
+    .btn-link, .btn-link-outline {
+        padding: 0.5em 1em;
+        font-size: 0.8em;
     }
 }
 

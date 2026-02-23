@@ -150,12 +150,21 @@
 
 .author__bio {
   margin: 0;
-  color: $gray;
+  color: $text-color-light;
   font-size: $type-size-6;
+  line-height: 1.6;
+  letter-spacing: 0.01em;
+  text-align: left;
 
   @include breakpoint($large) {
-    margin-top: 8px;
+    margin-top: 15px;
     margin-bottom: 20px;
+    padding: 0.8em 1em;
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+    border-radius: 8px;
+    border-left: 3px solid $primary-color;
+    text-align: left;
+    font-size: $type-size-6;
   }
 }
 
