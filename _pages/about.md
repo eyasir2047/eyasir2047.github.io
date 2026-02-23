@@ -290,7 +290,7 @@ I am passionate about building efficient, scalable systems that bridge the gap b
   
   <div class="contact-links">
     <a href="mailto:eyasir2047@gmail.com"><i class="fas fa-envelope"></i> eyasir2047@gmail.com</a>
-    <a href="https://linkedin.com/in/abrar-eyasir" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/abrar-eyasir-4423b7216/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     <a href="https://github.com/eyasir2047" target="_blank"><i class="fab fa-github"></i> GitHub</a>
   </div>
 </div>
