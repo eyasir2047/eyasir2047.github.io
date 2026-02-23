@@ -67,16 +67,13 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
 <span class="badge">Sep-Dec 2025</span>
 
 **ZeroBin — AI-Driven Waste Management Platform**
 
 *Machine Learning Engineer & Team Lead*
 
-<a href="https://frontend-solvio.vercel.app" class="btn-link" target="_blank"><i class="fas fa-globe"></i> Live Demo</a>
-<a href="https://github.com/eyasir2047/SOLVIO-Hackathon" class="btn-link-outline" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-<a href="https://huggingface.co/eyasir2047" class="btn-link-outline" target="_blank">🤗 Hugging Face</a>
+<a href="https://frontend-solvio.vercel.app" class="btn-link" target="_blank"><i class="fas fa-globe"></i> Live Demo</a> <a href="https://github.com/eyasir2047/SOLVIO-Hackathon" class="btn-link-outline" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://huggingface.co/eyasir2047" class="btn-link-outline" target="_blank">🤗 Hugging Face</a>
 
 - Led 4-member team to design and deploy ML-driven solutions for smart city waste management
 - Developed **LightGBM geospatial prediction** and **LSTM time-series forecasting** models for resource optimization
@@ -89,7 +86,6 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
 <span class="badge">Dec 2025-Jan 2026</span>
 
 **Distributed Machine Learning System with MPI & OpenMP**
@@ -105,7 +101,6 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
 <span class="badge">Mar-Jun 2025</span>
 
 **Informer-Based Agricultural Price Forecasting**
@@ -119,7 +114,6 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
 <span class="badge">Oct 2024-Jan 2025</span>
 
 **Flash — Tutorial Recommendation Platform**
