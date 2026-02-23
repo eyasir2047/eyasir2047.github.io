@@ -136,7 +136,7 @@ I am passionate about building efficient, scalable systems that bridge the gap b
     </div>
     <div style="text-align: right; color: #64748b; font-size: 0.9em;">Expected May 2026</div>
   </div>
-  <div class="education-gpa">: 3.84 / 4.00</div>
+  <div class="education-gpa">CGPA: 3.84 / 4.00</div>
   <p style="margin-top: 1em; color: #64748b; font-size: 0.9em;"><strong>Relevant Coursework:</strong> Machine Learning, Artificial Intelligence, Data Structures & Algorithms, Parallel & Distributed Systems, Computer Architecture, Operating Systems, Database Systems</p>
 </div>
 
