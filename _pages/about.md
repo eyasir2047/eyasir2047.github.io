@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate student pursuing a BSc (Hons) in Computer Science and Engineering at the **University of Dhaka**, Bangladesh, with a CGPA of **3.84/4.00**. My research interests lie at the intersection of **high-performance machine learning systems**, **distributed computing**, and **natural language processing**, with applications in large-scale scientific data analysis.
+I am a final-year undergraduate student pursuing a BSc (Hons) in Computer Science and Engineering at the **University of Dhaka**, Bangladesh, with a CGPA of **3.84/4.00**. My research interests lie at the intersection of **high-performance machine learning systems**, **large language models(LLMs)** and **natural language processing**, with applications in large-scale scientific data analysis.
 
 Currently, I am working as a **Research Assistant** under the supervision of [**Dr. Muhammad Ibrahim**](https://www.cse.du.ac.bd/profile/?faculty=MI) at the University of Dhaka, where I am developing large-scale Bangla QA datasets and fine-tuning transformer-based models for question answering systems. I am also an active member of the **DU_Caffeine Team**, contributing to winning multiple national hackathons through the development and deployment of ML solutions.
 
@@ -18,11 +18,32 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 
 # 🔥 News
 
-- *2025.03*: &nbsp;🎉 Started working as a Research Assistant at the University of Dhaka under Dr. Muhammad Ibrahim
-- *2025.12*: &nbsp;🏆 Champion at Solvio AI Hackathon with ZeroBin — AI-Driven Waste Management Platform
-- *2025.07*: &nbsp;🎓 Completed Summer School on Energy Data Analytics at IIT Bombay, India
-- *2025.11*: &nbsp;🚀 Top 20 at VisionX Project Showcasing, University of Dhaka
-- *2025.05*: &nbsp;🏅 Top 10 at S. N. Bose National IT Hackathon, University of Dhaka
+<ul class="news-timeline">
+  <li class="news-item highlight">
+    <span class="news-date">2026.04</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected at NUS Young Fellowship Programme 2026</span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.12</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🏆</span>Champion at Solvio AI Hackathon with Project ZeroBin: AI-Driven Waste Management Platform</span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.11</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🚀</span>Top 20 at VisionX Project Showcasing 2025</span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.09</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🏅</span>7th Place at InnovateX Hackathon, BUBT</span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.07</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🎓</span>Completed Summer School on Energy Data Analytics at IIT Bombay, India</span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.03</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🎉</span>Started working as a Research Assistant at the University of Dhaka under Dr. Muhammad Ibrahim</span>
+  </li>
+</ul>
 
 # 💼 Experience
 
@@ -32,8 +53,8 @@ I am passionate about building efficient, scalable systems that bridge the gap b
       <div class="experience-title">Research Assistant</div>
       <div class="experience-company">University of Dhaka</div>
     </div>
-    <div style="text-align: right;">
-      <div class="experience-date">Mar 2025 – Present</div>
+    <div class="experience-meta">
+      <div class="experience-date">Mar 2025 – Feb 2026</div>
       <div class="experience-supervisor">Supervisor: Dr. Muhammad Ibrahim</div>
     </div>
   </div>
@@ -51,7 +72,7 @@ I am passionate about building efficient, scalable systems that bridge the gap b
       <div class="experience-title">Machine Learning Engineer</div>
       <div class="experience-company">DU_Caffeine Team, University of Dhaka</div>
     </div>
-    <div style="text-align: right;">
+    <div class="experience-meta">
       <div class="experience-date">Sep 2025 – Present</div>
     </div>
   </div>
@@ -59,8 +80,78 @@ I am passionate about building efficient, scalable systems that bridge the gap b
     <li>Core ML team member, developing and deploying ML solutions across <strong>7+ national hackathons</strong></li>
     <li>Built ML systems including computer vision, NLP models, and time-series forecasting pipelines</li>
     <li>Engineered scalable deployments using <strong>FastAPI, Docker</strong>, and cloud infrastructure</li>
-    <li><strong>Awards</strong>: Champion – Solvio AI Hackathon; Top 20 – VisionX</li>
+    <li><strong>Awards</strong>: Champion – Solvio AI Hackathon; Top 20 – VisionX; 7th Place - InnovativeX</li>
   </ul>
+</div>
+
+
+
+# 🎓 Education
+
+<div class="education-item">
+  <div class="education-header">
+    <div>
+      <div class="education-degree">BSc (Hons) in Computer Science and Engineering</div>
+      <div class="education-school">University of Dhaka, Bangladesh</div>
+      <div class="education-date">2022 – Present</div>
+    </div>
+    <div class="education-meta">
+      <div class="education-gpa">CGPA: 3.84/4.00</div>
+    </div>
+  </div>
+
+  <div class="coursework">
+    <div class="coursework-title">Relevant coursework</div>
+    <div class="coursework-tags">
+      <span class="course-tag">Machine Learning</span>
+      <span class="course-tag">Artificial Intelligence</span>
+      <span class="course-tag">Data Structures & Algorithms</span>
+      <span class="course-tag">Parallel & Distributed Systems</span>
+      <span class="course-tag">Computer Architecture</span>
+      <span class="course-tag">Operating Systems</span>
+      <span class="course-tag">Database Systems</span>
+    </div>
+  </div>
+</div>
+
+<div class="education-item education-item--compact">
+  <div class="education-header">
+    <div>
+      <div class="education-degree">Higher Secondary Certificate (Science)</div>
+      <div class="education-school">Notre Dame College, Dhaka</div>
+      <div class="education-date">2018 – 2020</div>
+    </div>
+    <div class="education-meta">
+      <div class="education-gpa">GPA: 5.00/5.00 (Scholarship)</div>
+    </div>
+  </div>
+</div>
+
+<div class="education-item education-item--compact">
+  <div class="education-header">
+    <div>
+      <div class="education-degree">Secondary School Certificate (Science)</div>
+      <div class="education-school">B.M. Union School, Bandar</div>
+      <div class="education-date">2013 – 2018</div>
+    </div>
+    <div class="education-meta">
+      <div class="education-gpa">GPA: 5.00/5.00 (Scholarship)</div>
+    </div>
+  </div>
+</div>
+
+# 🎓 Summer Programme
+
+<div class="education-item training-item">
+  <div class="education-header">
+    <div>
+      <div class="education-degree">Indian Institute of Technology (IIT) Bombay, India</div>
+      <div class="education-school">Energy Data Analytics</div>
+      <div class="education-date">July 2025</div>
+    </div>
+  </div>
+
+  <p class="training-desc">Completed intensive coursework on large-scale energy-sector datasets. Applied machine learning and time-series analysis to extract actionable insights from real-world scientific data (ASHRAE Building Energy Dataset).</p>
 </div>
 
 # 🚀 Selected Projects
@@ -99,18 +190,6 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-<span class="badge">Mar-Jun 2025</span>
-
-**Informer-Based Agricultural Price Forecasting**
-
-- Built long-horizon time-series forecasting pipeline using **Informer transformer model**
-- Automated data extraction from 800+ PDFs with OCR (Tesseract) and regex parsing
-- Developed end-to-end pipeline for data preprocessing, model training, and evaluation
-
-</div>
-</div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
@@ -126,41 +205,7 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 </div>
 </div>
 
-# 🎓 Education
 
-<div class="education-item">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <div>
-      <div class="education-degree">BSc (Hons) in Computer Science and Engineering</div>
-      <div class="education-school">University of Dhaka, Bangladesh</div>
-    </div>
-    <div style="text-align: right; color: #64748b; font-size: 0.9em;">Expected May 2026</div>
-  </div>
-  <div class="education-gpa">CGPA: 3.84 / 4.00</div>
-  <p style="margin-top: 1em; color: #64748b; font-size: 0.9em;"><strong>Relevant Coursework:</strong> Machine Learning, Artificial Intelligence, Data Structures & Algorithms, Parallel & Distributed Systems, Computer Architecture, Operating Systems, Database Systems</p>
-</div>
-
-<div class="education-item">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <div>
-      <div class="education-degree">Summer School — Energy Data Analytics</div>
-      <div class="education-school">Indian Institute of Technology (IIT) Bombay, India</div>
-    </div>
-    <div style="text-align: right; color: #64748b; font-size: 0.9em;">July 2025</div>
-  </div>
-  <p style="margin-top: 0.8em; color: #64748b; font-size: 0.95em;">Completed intensive coursework on large-scale energy-sector datasets. Applied machine learning and time-series analysis to extract actionable insights from real-world scientific data (ASHRAE Building Energy Dataset).</p>
-</div>
-
-<div class="education-item">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <div>
-      <div class="education-degree">Higher Secondary Certificate (Science)</div>
-      <div class="education-school">Notre Dame College, Dhaka</div>
-    </div>
-    <div style="text-align: right; color: #64748b; font-size: 0.9em;">2020</div>
-  </div>
-  <div class="education-gpa">GPA: 5.00 / 5.00</div>
-</div>
 
 # 🎖 Awards & Achievements
 
@@ -187,7 +232,7 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 <div class="award-item">
   <span class="award-year">2025</span>
   <span class="award-icon">💡</span>
-  <span class="award-title"><strong>7th Place</strong> — Innovative Hackathon, Bangladesh University of Business and Technology (BUBT)</span>
+  <span class="award-title"><strong>7th Place</strong> — InnovativeX Hackathon 2025, Bangladesh University of Business and Technology (BUBT)</span>
 </div>
 <div class="award-item">
   <span class="award-year">2024</span>
@@ -264,22 +309,6 @@ I am passionate about building efficient, scalable systems that bridge the gap b
 <span class="skill-tag">LaTeX</span>
 <span class="skill-tag">Jupyter</span>
 <span class="skill-tag">VS Code</span>
-</div>
-
-# 👨‍🏫 Teaching Experience
-
-<div class="experience-item">
-  <div class="experience-header">
-    <div>
-      <div class="experience-title">Mathematics Instructor</div>
-      <div class="experience-company">Offline & YouTube</div>
-    </div>
-  </div>
-  <ul>
-    <li>Teaching advanced mathematics topics including Calculus, Linear Algebra, Probability, and Vector Analysis</li>
-    <li>Providing instruction to College Students preparing for higher education</li>
-    <li>Creating educational content and conducting live sessions</li>
-  </ul>
 </div>
 
 # 📫 Contact

@@ -1,4 +1,4 @@
-<script src="assets/js/main.min.js"></script>
+<script src="/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
@@ -62,6 +62,38 @@ document.addEventListener('DOMContentLoaded', function() {
       if (link.getAttribute('href').includes(current)) {
         link.classList.add('active');
       }
+    });
+  });
+
+  // Copy code utility
+  document.querySelectorAll('div.highlighter-rouge, figure.highlight').forEach(function(codeBlock) {
+    var button = document.createElement('button');
+    button.className = 'copy-btn';
+    button.type = 'button';
+    button.ariaLabel = 'Copy code to clipboard';
+    button.innerText = 'Copy';
+
+    codeBlock.appendChild(button);
+
+    button.addEventListener('click', function() {
+      var code = codeBlock.querySelector('code');
+      // Replace non-breaking spaces with actual spaces and get the text
+      var text = code.innerText;
+
+      navigator.clipboard.writeText(text).then(function() {
+        button.innerText = 'Copied!';
+        button.style.backgroundColor = '#98c379'; // Green matching the theme
+        button.style.color = '#fff';
+        
+        setTimeout(function() {
+          button.innerText = 'Copy';
+          button.style.backgroundColor = '';
+          button.style.color = '';
+        }, 2000);
+      }).catch(function(err) {
+        console.error('Failed to copy: ', err);
+        button.innerText = 'Failed';
+      });
     });
   });
 });
