@@ -9,11 +9,15 @@ main:
   - title: "Experience"
     url: "/#-experience"
 
+  - title: "Education"
+    url: "/#-education"
+
   - title: "Projects"
     url: "/#-selected-projects"
 
-  - title: "Education"
-    url: "/#-education"
+  - title: "Blog"
+    url: "/blog/"
+
 
   - title: "Awards"
     url: "/#-awards--achievements"

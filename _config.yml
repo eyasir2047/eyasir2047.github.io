@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Abrar Eyasir | ML Researcher & Engineer"
-description              : "Computer Science researcher at University of Dhaka specializing in high-performance machine learning systems, distributed computing, NLP, and transformer architectures. Building scalable AI solutions for real-world applications."
+description              : "Machine Learning & Large Language Models (LLMs) Researcher"
 repository               : "eyasir2047/eyasir2047.github.io"
 url                      : "https://eyasir2047.github.io"
 baseurl                  : ""
@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Abrar Eyasir"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "CS Researcher @ University of Dhaka"
+  avatar           : "/images/Abrar.png"
+  bio              : 
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=bf_x1P8AAAAJ&hl=en"
   email            : "eyasir2047@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -57,7 +57,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
