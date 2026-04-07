@@ -93,7 +93,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - *.md
+  - "*.md"
 keep_files:
   - .git
   - .svn
