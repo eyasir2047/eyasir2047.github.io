@@ -10,17 +10,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate student pursuing a BSc (Hons) in Computer Science and Engineering at the **University of Dhaka**, Bangladesh, with a CGPA of **3.84/4.00**. My research interests lie at the intersection of **high-performance machine learning systems**, **large language models(LLMs)** and **natural language processing**, with applications in large-scale scientific data analysis.
+Hi, I am Abrar Eyasir. I am currently in the final year of my undergraduate 
+studies at the **University of Dhaka**, Bangladesh. My major is CSE. In the first year of undergrad, I cofounded Sirius Academy, where I taught and mentored over 500+ students. I always try to maintain balance in my academic (CGPA: **3.84/4.00**)  and extracurricular activities. 
 
-Currently, I am working as a **Research Assistant** under the supervision of [**Dr. Muhammad Ibrahim**](https://www.cse.du.ac.bd/profile/?faculty=MI) at the University of Dhaka, where I am developing large-scale Bangla QA datasets and fine-tuning transformer-based models for question answering systems. I am also an active member of the **DU_Caffeine Team**, contributing to winning multiple national hackathons through the development and deployment of ML solutions.
+In my third year, I got deep interest in Hackathon. I actively participated several hackathons with my team **DU_Caffeine Team**. We won the Solvio AI Hackathon 2025 with our project **ZeroBin: AI-Driven Waste Management Platform**. We also had been top 10 in many national hackathons, including InnovativeX, VisionX and many more.
 
-I am passionate about building efficient, scalable systems that bridge the gap between cutting-edge research and real-world applications.
+My dream is to become a researcher in the field of ML and DL. I have done my undergrad thesis on **"Developing a Large-Scale Bangla QA Dataset and Fine-tuning Transformer-Based Models for Question Answering Systems"** under the supervision of [**Dr. Muhammad Ibrahim**]. Currently, I am exploring the field of Natural Language Processing(NLP), Large Language Models(LLMs) and Stable Diffusion.
+
+I also love to make write articles, make video contents and share my knowledge with others. I am glad to share that I got selected as a Section Leader in **Code in Place 2026**, where I will be teaching Python to students all over the world for 6 weeks. I also got selectd in the **NUS Young Fellowship programme 2026**, pretty excited to be in the NUS this summer. 
 
 # 🔥 News
 
 <ul class="news-timeline">
   <li class="news-item highlight">
     <span class="news-date">2026.04</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected  as a Section Leader at Code In Place 2026</span>
+  </li>
+  <li class="news-item highlight">
+    <span class="news-date">2026.03</span>
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected at NUS Young Fellowship Programme 2026</span>
   </li>
   <li class="news-item">
@@ -38,10 +45,6 @@ I am passionate about building efficient, scalable systems that bridge the gap b
   <li class="news-item">
     <span class="news-date">2025.07</span>
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🎓</span>Completed Summer School on Energy Data Analytics at IIT Bombay, India</span>
-  </li>
-  <li class="news-item">
-    <span class="news-date">2025.03</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🎉</span>Started working as a Research Assistant at the University of Dhaka under Dr. Muhammad Ibrahim</span>
   </li>
 </ul>
 
