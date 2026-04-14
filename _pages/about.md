@@ -16,7 +16,7 @@ In my third year, I developed a strong interest in hackathons. I have actively p
 
 Over time, my interest has gradually shifted towards research. My undergraduate thesis focused on developing a large-scale Bangla QA dataset and fine-tuning transformer-based models for question answering, under the supervision of Dr. Muhammad Ibrahim. Currently, I am exploring areas such as **Natural Language Processing (NLP)**, **Large Language Models (LLMs)** and generative models like **Stable Diffusion**.
 
-I also enjoy writing articles, creating video content (3300+ Youtube Subscribers) and sharing what I learn with others. Recently, I was selected as a Section Leader for **Code in Place 2026**, where I will be teaching Python to students around the world. I have also been selected for the **NUS Young Fellowship Programme 2026** and I will be attending the programme at NUS this summer
+I also enjoy writing articles, creating video content (3300+ Youtube Subscribers) and sharing what I learn with others. Recently, I was selected as a Section Leader for **Code in Place 2026**, where I will be teaching Python to students around the world. I have also been selected for the **NUS Young Fellowship Programme 2026** and will be attending the programme at NUS this summer
 
 In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/DL** and contribute to meaningful work in this field. I know I still have a lot to learn and I am working on improving myself every day.
 
@@ -26,8 +26,12 @@ In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/D
 # 🔥 News
 
 <ul class="news-timeline">
-  <li class="news-item highlight">
+   <li class="news-item highlight-stanford">
     <span class="news-date">2026.04</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">🌲</span>Selected as a Section Leader at Code in Place 2026 by Stanford University</span>
+  </li>
+  <li class="news-item highlight">
+    <span class="news-date">2026.03</span>
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected at NUS Young Fellowship Programme 2026</span>
   </li>
   <li class="news-item">
@@ -321,7 +325,7 @@ In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/D
 # 📫 Contact
 
 <div class="contact-section">
-  <p style="font-size: 1.05em; color: #334155; margin-bottom: 0.5em;">I am actively seeking opportunities for <strong>graduate studies</strong> and <strong>research positions</strong> in machine learning, distributed systems, and natural language processing.</p>
+  <p style="font-size: 1.05em; color: #334155; margin-bottom: 0.5em;">I am actively seeking opportunities for <strong>graduate studies</strong> and <strong>research positions</strong> in Machine learning, Large Language Models(LLMs) and Natural Language Processing(NLP).</p>
   <p style="color: #64748b; margin-bottom: 1.5em;">Feel free to reach out — I'd love to connect!</p>
   
   <div class="contact-links">
