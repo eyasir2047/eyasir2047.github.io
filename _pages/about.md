@@ -10,11 +10,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate student pursuing a BSc (Hons) in Computer Science and Engineering at the **University of Dhaka**, Bangladesh, with a CGPA of **3.84/4.00**. My research interests lie at the intersection of **high-performance machine learning systems**, **large language models(LLMs)** and **natural language processing**, with applications in large-scale scientific data analysis.
+Hi, I am **Abrar Eyasir**. I am currently in the final year of my undergraduate studies in CSE at the **University of Dhaka, Bangladesh**. In my first year, I co-founded **Sirius Academy**, where I have taught and mentored over 500+ students. I always try to maintain a balance between my academic work (**CGPA: 3.84/4.00**) and extracurricular activities.
 
-Currently, I am working as a **Research Assistant** under the supervision of [**Dr. Muhammad Ibrahim**](https://www.cse.du.ac.bd/profile/?faculty=MI) at the University of Dhaka, where I am developing large-scale Bangla QA datasets and fine-tuning transformer-based models for question answering systems. I am also an active member of the **DU_Caffeine Team**, contributing to winning multiple national hackathons through the development and deployment of ML solutions.
+In my third year, I developed a strong interest in hackathons. I have actively participated in several competitions with my team, **DU_Caffeine**. We won the **Solvio AI Hackathon 2025** with our project **ZeroBin: AI-Driven Waste Management Platform** and were also placed among the top 10 teams in a number of national hackathons, including **InnovativeX** and **VisionX**.
 
-I am passionate about building efficient, scalable systems that bridge the gap between cutting-edge research and real-world applications.
+Over time, my interest has gradually shifted towards research. My undergraduate thesis focused on developing a large-scale Bangla QA dataset and fine-tuning transformer-based models for question answering, under the supervision of Dr. Muhammad Ibrahim. Currently, I am exploring areas such as **Natural Language Processing (NLP)**, **Large Language Models (LLMs)** and generative models like **Stable Diffusion**.
+
+I also enjoy writing articles, creating video content (3300+ Youtube Subscribers) and sharing what I learn with others. Recently, I was selected as a Section Leader for **Code in Place 2026**, where I will be teaching Python to students around the world. I have also been selected for the **NUS Young Fellowship Programme 2026** and I will be attending the programme at NUS this summer
+
+In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/DL** and contribute to meaningful work in this field. I know I still have a lot to learn and I am working on improving myself every day.
+
+
+
 
 # 🔥 News
 
