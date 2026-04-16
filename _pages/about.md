@@ -35,6 +35,10 @@ In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/D
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected at NUS Young Fellowship Programme 2026</span>
   </li>
   <li class="news-item">
+    <span class="news-date">2026.03</span>
+    <span class="news-text"><span class="news-emoji" aria-hidden="true">📄</span>Paper accepted on arXiv — <a href="https://arxiv.org/abs/2603.05462" target="_blank">NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance</a></span>
+  </li>
+  <li class="news-item">
     <span class="news-date">2025.12</span>
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🏆</span>Champion at Solvio AI Hackathon with Project ZeroBin: AI-Driven Waste Management Platform</span>
   </li>
@@ -55,6 +59,23 @@ In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/D
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🎉</span>Started working as a Research Assistant at the University of Dhaka under Dr. Muhammad Ibrahim</span>
   </li>
 </ul>
+
+# 📝 Research Papers
+
+<div class="pub-card">
+  <div class="pub-content">
+    <div class="pub-badge-row">
+      <span class="pub-venue-badge">arXiv 2026</span>
+    </div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2603.05462" target="_blank">NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance</a></div>
+    <div class="pub-authors"><strong>Abrar Eyasir</strong>, Tahsin Ahmed, Muhammad Ibrahim</div>
+    <div class="pub-abstract">We introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board.</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2603.05462" target="_blank" class="pub-link"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://arxiv.org/pdf/2603.05462" target="_blank" class="pub-link"><i class="fas fa-file-pdf"></i> PDF</a>
+    </div>
+  </div>
+</div>
 
 # 💼 Experience
 

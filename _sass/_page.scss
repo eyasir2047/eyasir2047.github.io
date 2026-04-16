@@ -223,6 +223,104 @@
       }
     }
   }
+
+  /* ── Publications ─────────────────────────────────────────── */
+  .pub-card {
+    display: flex;
+    gap: 1.25rem;
+    margin: 0 0 1.5rem;
+    padding: 1.2rem 1.4rem;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-left: 4px solid $link-color;
+    border-radius: 8px;
+    transition: box-shadow 0.2s ease, border-left-color 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 4px 16px rgba(0,0,0,0.07);
+      border-left-color: $link-color-hover;
+    }
+
+    .pub-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .pub-badge-row {
+      margin-bottom: 0.45rem;
+    }
+
+    .pub-venue-badge {
+      display: inline-block;
+      padding: 2px 9px;
+      font-size: 0.72em;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      background: $link-color;
+      color: #fff;
+      border-radius: 4px;
+    }
+
+    .pub-title {
+      font-size: 1em;
+      font-weight: 700;
+      line-height: 1.45;
+      margin-bottom: 0.3rem;
+      color: $darker-gray;
+
+      a {
+        color: $darker-gray;
+        border-bottom: none;
+        text-decoration: none;
+
+        &:hover {
+          color: $link-color;
+          border-bottom: none;
+        }
+      }
+    }
+
+    .pub-authors {
+      font-size: 0.88em;
+      color: $gray;
+      margin-bottom: 0.55rem;
+      line-height: 1.4;
+    }
+
+    .pub-abstract {
+      font-size: 0.88em;
+      color: #475569;
+      line-height: 1.65;
+      margin-bottom: 0.7rem;
+    }
+
+    .pub-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .pub-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 4px 12px;
+      font-size: 0.82em;
+      font-weight: 600;
+      color: $link-color;
+      border: 1px solid $link-color;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: background 0.18s ease, color 0.18s ease;
+
+      &:hover {
+        background: $link-color;
+        color: #fff;
+        border-bottom: none;
+      }
+    }
+  }
 }
 
 .page__hero {
