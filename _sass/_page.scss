@@ -212,6 +212,16 @@
         }
       }
 
+      &.highlight-nus {
+        .news-text {
+          font-weight: 600;
+          color: #ef7c00;
+          &:hover {
+            color: #c46600;
+          }
+        }
+      }
+
       /* tight, consistent spacing between emoji and text */
       .news-emoji {
         margin-right: 0.4rem;

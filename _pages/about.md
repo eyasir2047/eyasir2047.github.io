@@ -30,7 +30,7 @@ In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/D
     <span class="news-date">2026.04</span>
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🌲</span>Selected as a Section Leader at Code in Place 2026 by Stanford University</span>
   </li>
-  <li class="news-item highlight">
+  <li class="news-item highlight-nus">
     <span class="news-date">2026.03</span>
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected at NUS Young Fellowship Programme 2026</span>
   </li>
