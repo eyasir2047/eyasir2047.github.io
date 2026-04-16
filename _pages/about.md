@@ -35,10 +35,6 @@ In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/D
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected at NUS Young Fellowship Programme 2026</span>
   </li>
   <li class="news-item">
-    <span class="news-date">2026.03</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">📄</span>Paper accepted on arXiv — <a href="https://arxiv.org/abs/2603.05462" target="_blank">NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance</a></span>
-  </li>
-  <li class="news-item">
     <span class="news-date">2025.12</span>
     <span class="news-text"><span class="news-emoji" aria-hidden="true">🏆</span>Champion at Solvio AI Hackathon with Project ZeroBin: AI-Driven Waste Management Platform</span>
   </li>
