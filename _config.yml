@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Abrar Eyasir | ML Researcher & Engineer"
-description              : "Machine Learning & Large Language Models (LLMs) Researcher"
+title                    : "Abrar Eyasir"
+description              : "MSc student at the University of Dhaka researching NLP, large language models, and emotion-aware AI."
 repository               : "eyasir2047/eyasir2047.github.io"
 url                      : "https://eyasir2047.github.io"
 baseurl                  : ""
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Abrar Eyasir"
-  avatar           : "/images/Abrar.png"
+  avatar           : "/images/abrar-eyasir.png"
   bio              : 
   location         : "Dhaka, Bangladesh"
   employer         :
@@ -45,7 +45,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "abrar-eyasir-4423b7216"
+  linkedin         : "abrar-eyasir"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

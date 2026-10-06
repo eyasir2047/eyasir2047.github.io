@@ -1,353 +1,77 @@
 ---
+layout: academic
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: NLP & Language Model Research
+description: "MSc student at the University of Dhaka researching natural language processing, large language models, and emotion-aware AI. Publications, experience, and academic CV."
+profile: true
 ---
 
-<span class='anchor' id='about-me'></span>
-
-Hi, I am **Abrar Eyasir**. I am currently in the final year of my undergraduate studies in CSE at the **University of Dhaka, Bangladesh**. In my first year, I co-founded **Sirius Academy**, where I have taught and mentored over 500+ students. I always try to maintain a balance between my academic work (**CGPA: 3.84/4.00**) and extracurricular activities.
-
-In my third year, I developed a strong interest in hackathons. I have actively participated in several competitions with my team, **DU_Caffeine**. We won the **Solvio AI Hackathon 2025** with our project **ZeroBin: AI-Driven Waste Management Platform** and were also placed among the top 10 teams in a number of national hackathons, including **InnovativeX** and **VisionX**.
-
-Over time, my interest has gradually shifted towards research. My undergraduate thesis focused on developing a large-scale Bangla QA dataset and fine-tuning transformer-based models for question answering, under the supervision of Dr. Muhammad Ibrahim. Currently, I am exploring areas such as **Natural Language Processing (NLP)**, **Large Language Models (LLMs)** and generative models like **Stable Diffusion**.
-
-I also enjoy writing articles, creating video content (3300+ Youtube Subscribers) and sharing what I learn with others. Recently, I was selected as a Section Leader for **Code in Place 2026**, where I will be teaching Python to students around the world. I have also been selected for the **NUS Young Fellowship Programme 2026** and will be attending the programme at NUS this summer
-
-In the long run, I hope to grow into a research-driven entrepreneur in **AI/ML/DL** and contribute to meaningful work in this field. I know I still have a lot to learn and I am working on improving myself every day.
-
-
-
-
-# 🔥 News
-
-<ul class="news-timeline">
-   <li class="news-item highlight-stanford">
-    <span class="news-date">2026.04</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🌲</span>Selected as a Section Leader at Code in Place 2026 by Stanford University</span>
-  </li>
-  <li class="news-item highlight-nus">
-    <span class="news-date">2026.03</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🌟</span>Selected at NUS Young Fellowship Programme 2026</span>
-  </li>
-  <li class="news-item">
-    <span class="news-date">2025.12</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🏆</span>Champion at Solvio AI Hackathon with Project ZeroBin: AI-Driven Waste Management Platform</span>
-  </li>
-  <li class="news-item">
-    <span class="news-date">2025.11</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🚀</span>Top 20 at VisionX Project Showcasing 2025</span>
-  </li>
-  <li class="news-item">
-    <span class="news-date">2025.09</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🏅</span>7th Place at InnovateX Hackathon, BUBT</span>
-  </li>
-  <li class="news-item">
-    <span class="news-date">2025.07</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🎓</span>Completed Summer School on Energy Data Analytics at IIT Bombay, India</span>
-  </li>
-  <li class="news-item">
-    <span class="news-date">2025.03</span>
-    <span class="news-text"><span class="news-emoji" aria-hidden="true">🎉</span>Started working as a Research Assistant at the University of Dhaka under Dr. Muhammad Ibrahim</span>
-  </li>
-</ul>
-
-# 📝 Research Papers
-
-<div class="pub-card">
-  <div class="pub-content">
-    <div class="pub-badge-row">
-      <span class="pub-venue-badge">arXiv 2026</span>
-    </div>
-    <div class="pub-title"><a href="https://arxiv.org/abs/2603.05462" target="_blank">NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance</a></div>
-    <div class="pub-authors"><strong>Abrar Eyasir</strong>, Tahsin Ahmed, Muhammad Ibrahim</div>
-    <div class="pub-abstract">We introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board.</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2603.05462" target="_blank" class="pub-link"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://arxiv.org/pdf/2603.05462" target="_blank" class="pub-link"><i class="fas fa-file-pdf"></i> PDF</a>
-    </div>
+<section class="intro" aria-labelledby="profile-name">
+  <div class="intro-copy">
+    <p class="eyebrow">MSc student · University of Dhaka</p>
+    <h1 id="profile-name">Abrar Eyasir</h1>
+    <p class="intro-line">Studying language, reasoning,<br class="desktop-break"> and emotion in AI.</p>
+    <p>I am a master’s student in Computer Science and Engineering at the <strong>University of Dhaka</strong>. My research interests span natural language processing, large language models, speech processing, and generative AI.</p>
+    <p>I currently study emotion understanding in LLMs at <strong>AIST, Japan</strong>, and evaluate multilingual LLM reasoning and safety at <strong>Arbitrary Research Institute</strong>. My previous work includes Bangla question answering and multi-turn instruction following.</p>
+    <div class="profile-links"><a class="button" href="{{ '/files/Abrar-Eyasir-CV.pdf' | relative_url }}" download>Download CV <span aria-hidden="true">↓</span></a><a href="https://scholar.google.com/citations?user=bf_x1P8AAAAJ&hl=en">Google Scholar ↗</a><a href="https://github.com/eyasir2047">GitHub ↗</a><a href="https://www.linkedin.com/in/abrar-eyasir/">LinkedIn ↗</a></div>
   </div>
-</div>
+  <aside class="profile-aside" aria-label="Profile photograph and location">
+    <img class="portrait" src="{{ '/images/abrar-eyasir.png' | relative_url }}" width="800" height="800" alt="Abrar Eyasir" fetchpriority="high">
+    <p>Dhaka, Bangladesh</p>
+    <a href="mailto:eyasir2047@gmail.com">eyasir2047@gmail.com</a>
+    <div class="profile-caption"><span class="small-label">Currently</span><span>Technical Trainee, AIST</span><span>Research Fellow, ARIBD</span></div>
+  </aside>
+</section>
 
-# 💼 Experience
+<div class="opportunity-note"><span class="status-dot" aria-hidden="true"></span><p>I’m seeking <strong>PhD opportunities</strong> and <strong>remote research collaborations</strong> in NLP and language models.</p><a href="#contact">Let’s connect <span aria-hidden="true">↗</span></a></div>
 
-<div class="experience-item">
-  <div class="experience-header">
-    <div>
-      <div class="experience-title">Research Assistant</div>
-      <div class="experience-company">University of Dhaka</div>
-    </div>
-    <div class="experience-meta">
-      <div class="experience-date">Mar 2025 – Feb 2026</div>
-      <div class="experience-supervisor">Supervisor: Dr. Muhammad Ibrahim</div>
-    </div>
+<section class="section-row" id="research" aria-labelledby="research-title">
+  <div class="section-label"><span class="section-number">01 / RESEARCH</span><h2 id="research-title">Publications<br> &amp; preprints</h2><p>Language models, multilingual NLP, and applied machine learning.</p></div>
+  <div class="section-content publication-list">
+    <article class="publication"><div class="publication-meta"><span class="venue">Accepted · New in ML Workshop, NeurIPS 2026</span><span>2026</span></div><h3><a href="https://arxiv.org/abs/2609.33738">The Effects of Incremental Instruction Delivery on Language-Model Creative Writing</a></h3><p class="authors">Anshuman Singh, <strong>Abrar Eyasir</strong>, Haseeb Yaqoob, John Manavalan</p><p>Studying multi-turn instruction degradation through a 160-task creative-writing benchmark, with six models, automated evaluation, and human validation.</p><div class="text-links"><a href="https://arxiv.org/abs/2609.33738">arXiv ↗</a><span class="muted">Workshop scheduled for December 2026</span></div></article>
+    <article class="publication"><div class="publication-meta"><span class="venue neutral">Preprint</span><span>2026</span></div><h3><a href="https://arxiv.org/abs/2603.05462">NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance</a></h3><p class="authors"><strong>Abrar Eyasir</strong>, Tahsin Ahmed, Muhammad Ibrahim</p><p>An 87,805-pair Bangla educational question-answering benchmark with adversarial unanswerable questions; includes Qwen2.5-7B fine-tuning with QLoRA and chain-of-thought prompting.</p><div class="text-links"><a href="https://arxiv.org/abs/2603.05462">arXiv ↗</a><a href="https://huggingface.co/datasets/eyasir2047/NCTB-QA">Dataset ↗</a></div></article>
+    <article class="publication"><div class="publication-meta"><span class="venue neutral">Preprint</span><span>2026</span></div><h3><a href="https://arxiv.org/abs/2604.06227">A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on a Novel Bangladeshi Market Price Dataset</a></h3><p class="authors">Tashreef Muhammad, Tahsin Ahmed, Meherun Farzana, Md. Mahmudul Hasan, <strong>Abrar Eyasir</strong>, et al.</p><p>Benchmarking classical and deep learning approaches to agricultural commodity price forecasting in Bangladesh.</p><div class="text-links"><a href="https://arxiv.org/abs/2604.06227">arXiv ↗</a></div></article>
   </div>
-  <ul>
-    <li>Developed a large-scale <strong>Bangla QA dataset</strong> with 94,000 QA pairs and 210M tokens, implementing an automated pipeline for document extraction, segmentation, and QA generation</li>
-    <li>Fine-tuned <strong>Qwen-2.5-7B</strong> using PyTorch, PEFT LoRA, and Chain-of-Thought prompting for parameter-efficient large model training</li>
-    <li>Implemented fine training for transformer-based extractive QA models including <strong>BERT, RoBERTa, and ELECTRA</strong></li>
-    <li>Benchmarked generative vs. extractive QA systems using BLEU, F1, and Exact Match metrics on large-scale datasets</li>
-  </ul>
-</div>
+</section>
 
-<div class="experience-item">
-  <div class="experience-header">
-    <div>
-      <div class="experience-title">Machine Learning Engineer</div>
-      <div class="experience-company">DU_Caffeine Team, University of Dhaka</div>
-    </div>
-    <div class="experience-meta">
-      <div class="experience-date">Sep 2025 – Present</div>
-    </div>
+<section class="section-row" id="experience" aria-labelledby="experience-title">
+  <div class="section-label"><span class="section-number">02 / EXPERIENCE</span><h2 id="experience-title">Research &amp;<br> teaching</h2></div>
+  <div class="section-content">
+    <article class="entry"><div class="entry-heading"><h3>Technical Trainee</h3><span class="date">Jul 2026 – Present</span></div><p class="institution">National Institute of Advanced Industrial Science and Technology (AIST)</p><p class="entry-detail">Remote, Japan · Supervisor: Dr. Rumana Ferdous Munne</p><p>Researching appraisal-based emotion reasoning and emotion-aware text generation in large language models.</p></article>
+    <article class="entry"><div class="entry-heading"><h3>Research Fellow</h3><span class="date">Jul 2026 – Present</span></div><p class="institution">Arbitrary Research Institute (ARIBD)</p><p class="entry-detail">Remote, Bangladesh · Supervisor: Md Fahim</p><p>Evaluating LLM reasoning, hallucination, safety, and language performance on Bangla and English dental queries.</p></article>
+    <article class="entry"><div class="entry-heading"><h3>Student Researcher</h3><span class="date">Jul – Aug 2026</span></div><p class="institution">SISTER Program, Dubai Computer Science Society</p><p class="entry-detail">Remote</p><p>Built a 160-task creative-writing benchmark to investigate multi-turn instruction degradation in six LLMs using LLM-as-a-judge scoring and human validation.</p></article>
+    <article class="entry"><div class="entry-heading"><h3>Section Leader</h3><span class="date">Apr – May 2026</span></div><p class="institution">Code in Place, Stanford University</p><p class="entry-detail">Remote</p><p>Delivered weekly interactive Python sessions to a cohort of 10 students.</p></article>
+    <article class="entry"><div class="entry-heading"><h3>Research Assistant</h3><span class="date">Mar 2025 – Feb 2026</span></div><p class="institution">University of Dhaka</p><p class="entry-detail">Dhaka, Bangladesh · Supervisor: Dr. Muhammad Ibrahim</p><p>Developed NCTB-QA and fine-tuned Qwen2.5-7B using QLoRA with chain-of-thought prompting for Bangla educational question answering.</p></article>
   </div>
-  <ul>
-    <li>Core ML team member, developing and deploying ML solutions across <strong>7+ national hackathons</strong></li>
-    <li>Built ML systems including computer vision, NLP models, and time-series forecasting pipelines</li>
-    <li>Engineered scalable deployments using <strong>FastAPI, Docker</strong>, and cloud infrastructure</li>
-    <li><strong>Awards</strong>: Champion – Solvio AI Hackathon; Top 20 – VisionX; 7th Place - InnovativeX</li>
-  </ul>
-</div>
+</section>
 
-
-
-# 🎓 Education
-
-<div class="education-item">
-  <div class="education-header">
-    <div>
-      <div class="education-degree">BSc (Hons) in Computer Science and Engineering</div>
-      <div class="education-school">University of Dhaka, Bangladesh</div>
-      <div class="education-date">2022 – Present</div>
-    </div>
-    <div class="education-meta">
-      <div class="education-gpa">CGPA: 3.84/4.00</div>
-    </div>
+<section class="section-row" id="education" aria-labelledby="education-title">
+  <div class="section-label"><span class="section-number">03 / EDUCATION</span><h2 id="education-title">Academic<br> background</h2></div>
+  <div class="section-content">
+    <article class="entry"><div class="entry-heading"><h3>MSc in Computer Science and Engineering</h3><span class="date">Sep 2026 – Present</span></div><p class="institution">University of Dhaka, Bangladesh</p></article>
+    <article class="entry"><div class="entry-heading"><h3>BSc in Computer Science and Engineering</h3><span class="date">Jan 2022 – May 2026</span></div><p class="institution">University of Dhaka, Bangladesh</p><p><strong>CGPA: 3.85 / 4.00</strong> · Top 10% of the year</p></article>
+    <article class="entry"><div class="entry-heading"><h3>Higher Secondary Certificate · Science</h3><span class="date">Jul 2018 – Oct 2021</span></div><p class="institution">Notre Dame College, Dhaka</p><p>Scholarship from Dhaka Board</p></article>
+    <h3 class="subsection-title">Fellowships &amp; academic programs</h3>
+    <div class="compact-entry"><span class="date">2026</span><p><strong>NUS Young Fellowship Programme</strong><br>Selected · National University of Singapore</p></div>
+    <div class="compact-entry"><span class="date">Jun – Jul 2025</span><p><strong>International Summer School · Energy Data Analytics</strong><br>Indian Institute of Technology Bombay</p></div>
   </div>
+</section>
 
-  <div class="coursework">
-    <div class="coursework-title">Relevant coursework</div>
-    <div class="coursework-tags">
-      <span class="course-tag">Machine Learning</span>
-      <span class="course-tag">Artificial Intelligence</span>
-      <span class="course-tag">Data Structures & Algorithms</span>
-      <span class="course-tag">Parallel & Distributed Systems</span>
-      <span class="course-tag">Computer Architecture</span>
-      <span class="course-tag">Operating Systems</span>
-      <span class="course-tag">Database Systems</span>
-    </div>
+<section class="section-row" id="projects" aria-labelledby="projects-title">
+  <div class="section-label"><span class="section-number">04 / SELECTED WORK</span><h2 id="projects-title">Applied ML<br> projects</h2><p>Building systems beyond the benchmark.</p></div>
+  <div class="section-content">
+    <article class="entry project"><div class="entry-heading"><h3>ZeroBin</h3><span class="date">Sep – Dec 2025</span></div><p class="institution">AI-driven waste management platform</p><p class="award-note">Champion, Solvio AI Hackathon · 650 teams</p><p>Built a multimodal retrieval and verification pipeline combining Gemini Vision, AI-image detection, and reverse image search. Deployed a RAG assistant with web search and read-only database access, alongside LightGBM and LSTM forecasting.</p><div class="text-links"><a href="https://github.com/orgs/SOLVIO-Hackathon/repositories">Code ↗</a><a href="https://drive.google.com/file/d/19fre6dU67tVBzj62B_z1w12Zu692YsS3/view">Slides ↗</a><a href="https://youtu.be/rlxTucvkqWY">Demo ↗</a></div></article>
+    <article class="entry project"><div class="entry-heading"><h3>Flash</h3><span class="date">Oct 2024 – Jan 2025</span></div><p class="institution">Tutorial recommendation &amp; information retrieval</p><p>Built a course recommendation system with TF-IDF vectorisation and cosine similarity, from raw course content to ranked recommendations.</p><div class="text-links"><a href="https://github.com/saged-sama/Flash---Fastest-Way-to-Learn">Code ↗</a><a href="https://youtu.be/t8-OqMMzcTg">Demo ↗</a></div></article>
+    <article class="entry project"><div class="entry-heading"><h3>SynthLearn</h3><span class="date">May 2025</span></div><p class="institution">Interactive science learning in Bangla</p><p>Built SciBot, a multimodal Bangla chatbot combining text and speech with Google Cloud TTS and persistent, retrievable conversation memory.</p><div class="text-links"><a href="https://github.com/fatbomb/hackathontemplate">Code ↗</a><a href="https://www.youtube.com/watch?v=1ZACZDQjT3I">Demo ↗</a></div></article>
   </div>
-</div>
+</section>
 
-<div class="education-item education-item--compact">
-  <div class="education-header">
-    <div>
-      <div class="education-degree">Higher Secondary Certificate (Science)</div>
-      <div class="education-school">Notre Dame College, Dhaka</div>
-      <div class="education-date">2018 – 2020</div>
-    </div>
-    <div class="education-meta">
-      <div class="education-gpa">GPA: 5.00/5.00 (Scholarship)</div>
-    </div>
+<section class="section-row" id="recognition" aria-labelledby="recognition-title">
+  <div class="section-label"><span class="section-number">05 / RECOGNITION</span><h2 id="recognition-title">Awards &amp;<br> technical skills</h2></div>
+  <div class="section-content">
+    <ul class="awards"><li><strong>Champion</strong><span>Solvio AI Hackathon · ZeroBin, 650 teams</span></li><li><strong>Top 20</strong><span>VisionX AI-Powered Project Showcasing</span></li><li><strong>7th place</strong><span>HacktheAI Hackathon, SmythOS; Innovative Hackathon, BUBT</span></li><li><strong>Top 10</strong><span>S. N. Bose National IT Hackathon; CSE Carnival Hackathon, SUST</span></li><li><strong>5th place</strong><span>11th Bangladesh Chemistry Olympiad</span></li><li><strong>Scholarship</strong><span>SSC talent pool · 3rd position, Narayanganj District</span></li></ul>
+    <dl class="skills"><div><dt>Research &amp; ML</dt><dd>PyTorch, scikit-learn, NLP, LLMs, deep learning, RAG, computer vision</dd></div><div><dt>Programming</dt><dd>Python, C/C++, Java, SQL, NumPy, Pandas</dd></div><div><dt>Development</dt><dd>LangChain, FastAPI, Streamlit, Git, Docker, Vercel</dd></div><div><dt>Languages</dt><dd>English and Bangla · Fluent</dd></div></dl>
   </div>
-</div>
+</section>
 
-<div class="education-item education-item--compact">
-  <div class="education-header">
-    <div>
-      <div class="education-degree">Secondary School Certificate (Science)</div>
-      <div class="education-school">B.M. Union School, Bandar</div>
-      <div class="education-date">2013 – 2018</div>
-    </div>
-    <div class="education-meta">
-      <div class="education-gpa">GPA: 5.00/5.00 (Scholarship)</div>
-    </div>
-  </div>
-</div>
-
-# 🎓 Summer Programme
-
-<div class="education-item training-item">
-  <div class="education-header">
-    <div>
-      <div class="education-degree">Indian Institute of Technology (IIT) Bombay, India</div>
-      <div class="education-school">Energy Data Analytics</div>
-      <div class="education-date">July 2025</div>
-    </div>
-  </div>
-
-  <p class="training-desc">Completed intensive coursework on large-scale energy-sector datasets. Applied machine learning and time-series analysis to extract actionable insights from real-world scientific data (ASHRAE Building Energy Dataset).</p>
-</div>
-
-# 🚀 Selected Projects
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-<span class="badge">Sep-Dec 2025</span>
-
-**ZeroBin — AI-Driven Waste Management Platform**
-
-*Machine Learning Engineer & Team Lead*
-
-<a href="https://frontend-solvio.vercel.app" class="btn-link" target="_blank"><i class="fas fa-globe"></i> Live Demo</a> <a href="https://github.com/eyasir2047/SOLVIO-Hackathon" class="btn-link-outline" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://huggingface.co/eyasir2047" class="btn-link-outline" target="_blank">🤗 Hugging Face</a>
-
-- Led 4-member team to design and deploy ML-driven solutions for smart city waste management
-- Developed **LightGBM geospatial prediction** and **LSTM time-series forecasting** models for resource optimization
-- Fine-tuned Onnubuti AI sentiment analysis model achieving **94.5% accuracy**
-- Deployed scalable inference system with FastAPI, Docker, and RESTful APIs
-- **🏆 Champion** at Solvio AI Hackathon (2025)
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-<span class="badge">Dec 2025-Jan 2026</span>
-
-**Distributed Machine Learning System with MPI & OpenMP**
-
-<a href="https://github.com/eyasir2047/HPC-House-Price-Regression" class="btn-link-outline" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-
-- Developed a distributed ML system using **C, MPI, and OpenMP** with synchronized gradient updates across 8 parallel processes
-- Built a low-latency inference pipeline integrating MPI with **FastAPI backend** and **Next.js frontend** for real-time predictions
-- Implemented parallelized matrix multiplication with OpenMP to enable multi-linear regression
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-<span class="badge">Oct 2024-Jan 2025</span>
-
-**Flash — Tutorial Recommendation Platform**
-
-<a href="https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn" class="btn-link-outline" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-
-- Implemented content-based recommendation system using **TF-IDF and cosine similarity**
-- Built full-stack application for personalized tutorial recommendations
-
-</div>
-</div>
-
-
-
-# 🎖 Awards & Achievements
-
-<div class="award-item">
-  <span class="award-year">2025</span>
-  <span class="award-icon">🏆</span>
-  <span class="award-title"><strong>Champion</strong> — Solvio AI Hackathon</span>
-</div>
-<div class="award-item">
-  <span class="award-year">2025</span>
-  <span class="award-icon">🚀</span>
-  <span class="award-title"><strong>Top 20</strong> — VisionX Project Showcasing, University of Dhaka</span>
-</div>
-<div class="award-item">
-  <span class="award-year">2025</span>
-  <span class="award-icon">🏅</span>
-  <span class="award-title"><strong>Top 10</strong> — S. N. Bose National IT Hackathon, University of Dhaka</span>
-</div>
-<div class="award-item">
-  <span class="award-year">2025</span>
-  <span class="award-icon">🎯</span>
-  <span class="award-title"><strong>7th Place</strong> — Inter-University National Hackathon, Green University of Bangladesh</span>
-</div>
-<div class="award-item">
-  <span class="award-year">2025</span>
-  <span class="award-icon">💡</span>
-  <span class="award-title"><strong>7th Place</strong> — InnovativeX Hackathon 2025, Bangladesh University of Business and Technology (BUBT)</span>
-</div>
-<div class="award-item">
-  <span class="award-year">2024</span>
-  <span class="award-icon">🌟</span>
-  <span class="award-title"><strong>Top 10</strong> — CSE Carnival Hackathon, Shahjalal University of Science and Technology (SUST)</span>
-</div>
-
-# 💻 Technical Skills
-
-<div class="skill-category">
-<strong>Machine Learning & Deep Learning</strong>
-<span class="skill-tag">PyTorch</span>
-<span class="skill-tag">TensorFlow</span>
-<span class="skill-tag">Keras</span>
-<span class="skill-tag">scikit-learn</span>
-<span class="skill-tag">XGBoost</span>
-<span class="skill-tag">LightGBM</span>
-<span class="skill-tag">Optuna</span>
-</div>
-
-<div class="skill-category">
-<strong>Natural Language Processing</strong>
-<span class="skill-tag">Transformers</span>
-<span class="skill-tag">BERT</span>
-<span class="skill-tag">RoBERTa</span>
-<span class="skill-tag">ELECTRA</span>
-<span class="skill-tag">Qwen</span>
-<span class="skill-tag">LoRA</span>
-<span class="skill-tag">QLoRA</span>
-<span class="skill-tag">PEFT</span>
-<span class="skill-tag">Hugging Face</span>
-</div>
-
-<div class="skill-category">
-<strong>High-Performance Computing</strong>
-<span class="skill-tag">MPI</span>
-<span class="skill-tag">OpenMP</span>
-<span class="skill-tag">Parallel Computing</span>
-<span class="skill-tag">CUDA</span>
-</div>
-
-<div class="skill-category">
-<strong>Data Science & Analysis</strong>
-<span class="skill-tag">NumPy</span>
-<span class="skill-tag">Pandas</span>
-<span class="skill-tag">Matplotlib</span>
-<span class="skill-tag">Seaborn</span>
-<span class="skill-tag">Feature Engineering</span>
-</div>
-
-<div class="skill-category">
-<strong>Deployment & MLOps</strong>
-<span class="skill-tag">FastAPI</span>
-<span class="skill-tag">Docker</span>
-<span class="skill-tag">REST APIs</span>
-<span class="skill-tag">CI/CD</span>
-<span class="skill-tag">Hugging Face Hub</span>
-</div>
-
-<div class="skill-category">
-<strong>Programming Languages</strong>
-<span class="skill-tag">Python</span>
-<span class="skill-tag">C</span>
-<span class="skill-tag">C++</span>
-<span class="skill-tag">SQL</span>
-<span class="skill-tag">JavaScript</span>
-</div>
-
-<div class="skill-category">
-<strong>Tools & Platforms</strong>
-<span class="skill-tag">Git</span>
-<span class="skill-tag">GitHub</span>
-<span class="skill-tag">Linux</span>
-<span class="skill-tag">LaTeX</span>
-<span class="skill-tag">Jupyter</span>
-<span class="skill-tag">VS Code</span>
-</div>
-
-# 📫 Contact
-
-<div class="contact-section">
-  <p style="font-size: 1.05em; color: #334155; margin-bottom: 0.5em;">I am actively seeking opportunities for <strong>graduate studies</strong> and <strong>research positions</strong> in Machine learning, Large Language Models(LLMs) and Natural Language Processing(NLP).</p>
-  <p style="color: #64748b; margin-bottom: 1.5em;">Feel free to reach out — I'd love to connect!</p>
-  
-  <div class="contact-links">
-    <a href="mailto:eyasir2047@gmail.com"><i class="fas fa-envelope"></i> eyasir2047@gmail.com</a>
-    <a href="https://www.linkedin.com/in/abrar-eyasir-4423b7216/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-    <a href="https://github.com/eyasir2047" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-  </div>
-</div>
+<section class="contact-block" id="contact" aria-labelledby="contact-title"><div><span class="section-number">GET IN TOUCH</span><h2 id="contact-title">Let’s explore a research fit.</h2><p>I welcome conversations about PhD positions, remote research opportunities, and collaborations in NLP, LLMs, speech processing, and generative AI.</p></div><div class="contact-actions"><a class="contact-email" href="mailto:eyasir2047@gmail.com">eyasir2047@gmail.com <span aria-hidden="true">↗</span></a><a href="{{ '/files/Abrar-Eyasir-CV.pdf' | relative_url }}">View academic CV (PDF) ↗</a></div></section>

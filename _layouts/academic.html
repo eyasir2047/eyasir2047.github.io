@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <meta name="theme-color" content="#f8f7f3">
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+  {% feed_meta %}
+  {% if page.layout == 'post' %}
+  <script>window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']]}};</script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="{{ '/' | relative_url }}">Abrar Eyasir<span class="wordmark-dot">.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}#research">Research</a>
+        <a href="{{ '/' | relative_url }}#experience">Experience</a>
+        <a href="{{ '/' | relative_url }}#education">Education</a>
+        <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}aria-current="page"{% endif %}>Writing</a>
+        <a href="{{ '/' | relative_url }}#contact">Contact</a>
+        <a class="nav-cv" href="{{ '/files/Abrar-Eyasir-CV.pdf' | relative_url }}">CV <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="site-main{% unless page.profile %} reading-page{% endunless %}">{{ content }}</main>
+  <footer class="site-footer"><div><span>© {{ site.time | date: '%Y' }} Abrar Eyasir</span><span>Dhaka, Bangladesh · <a href="mailto:eyasir2047@gmail.com">Get in touch <span aria-hidden="true">↗</span></a></span><a href="#main">Back to top ↑</a></div></footer>
+</body>
+</html>
